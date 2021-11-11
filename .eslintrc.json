@@ -29,6 +29,7 @@
         }
     },
     "rules": {
+        "quotes": ["error", "single"],
         "max-len": "off",
         "no-use-before-define": "off",
         "indent": [
